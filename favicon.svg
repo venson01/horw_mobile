@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024"><rect width="1024" height="1024" rx="220" fill="#5A1A26"/><g transform="translate(102.39999999999998 96.0) scale(0.8)">
+  <g fill="none" stroke="#D9B25F" stroke-width="34" stroke-linecap="round" stroke-linejoin="round">
+    <!-- lancet arch -->
+    <path d="M272 860 V500 A380 380 0 0 1 512 147 A380 380 0 0 1 752 500 V860"/>
+    <!-- inner arch -->
+    <path d="M330 860 V520 A320 320 0 0 1 512 232 A320 320 0 0 1 694 520 V860" stroke-width="15.3" opacity=".55"/>
+    <!-- cross -->
+    <path d="M512 318 V600 M436 398 H588"/>
+    <!-- open book -->
+    <path d="M512 742 C 462 704 410 696 350 708 V 842 C 410 828 462 836 512 876 C 562 836 614 828 674 842 V 708 C 614 696 562 704 512 742 Z" fill="#D9B25F" fill-opacity=".14"/>
+    <path d="M512 742 V876"/>
+    <!-- base -->
+    <path d="M232 900 H792"/>
+  </g></g></svg>
